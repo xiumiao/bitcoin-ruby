@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://ruby.taobao.org"
 
 # Specify your gem's dependencies in bitcoin-ruby.gemspec
 gemspec
